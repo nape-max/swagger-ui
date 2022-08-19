@@ -1,0 +1,4 @@
+[submodule "dist"]
+	path = dist
+	url = git@github.com:nape-max/swagger-ui.git
+	branch = builded
